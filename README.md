@@ -1,7 +1,7 @@
 # Project Title: Login & Registration System
 
-![Login Page](path/to/your/image.jpg)
-![Registration Page](path/to/your/image.jpg)
+![Login Page](https://github.com/Clin-Code/Login-Registration-Page/blob/main/Login%20%26%20Registration%20Page.png)
+![Registration Page](https://github.com/Clin-Code/Login-Registration-Page/blob/main/Login%20%26%20Registration%20Page.png)
 
 ## Description
 
